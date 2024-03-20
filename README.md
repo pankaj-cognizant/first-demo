@@ -1,2 +1,3 @@
-# firts-demo
-This is my first Git Repository
+# first-demo
+This is my first Git Repository.
+Author - Pankaj Ghumare
